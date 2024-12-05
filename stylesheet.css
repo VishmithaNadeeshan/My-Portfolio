@@ -202,8 +202,14 @@ transition: 0.5s;
     overflow: hidden;
 }
 .Work img{
-    width: 100%;
+    width: 400px; 
+    height: 250px; 
+    object-fit: cover; 
     border-radius: 10px;
+
+
+
+    
     display: block;
     transition: transforrm 0.5s;
 }
